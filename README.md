@@ -1,4 +1,4 @@
-# EO ##### - Buying Guide - SaaS Module
+# EO ##### - Buying Guide - SaaS Module--Adding Test Verbiage
 
 # **Welcome to Our GitHub Repository**
 
